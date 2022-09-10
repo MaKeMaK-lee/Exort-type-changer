@@ -1,0 +1,7 @@
+C:\Users\Akatsuki\source\repos\Exort type changer\bin\Debug\Exort type changer.exe.config
+C:\Users\Akatsuki\source\repos\Exort type changer\bin\Debug\Exort type changer.exe
+C:\Users\Akatsuki\source\repos\Exort type changer\bin\Debug\Exort type changer.pdb
+C:\Users\Akatsuki\source\repos\Exort type changer\obj\Debug\Exort type changer.csprojAssemblyReference.cache
+C:\Users\Akatsuki\source\repos\Exort type changer\obj\Debug\Exort type changer.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\source\repos\Exort type changer\obj\Debug\Exort type changer.exe
+C:\Users\Akatsuki\source\repos\Exort type changer\obj\Debug\Exort type changer.pdb
